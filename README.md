@@ -14,7 +14,7 @@ I am a programmer all of my life, since my 19, learning by myself primarily. Now
 <hr>
 <br>
 
-- 🥇 Frontend Development: [Javascript](https://www.javascript.com/), [Typescript](https://www.typescriptlang.org/), [React.js](https://reactjs.org/) ( [Gatsby](https://www.gatsbyjs.com/), [Next.js](https://nextjs.org/) )
+- 🥇 Frontend Development: [Javascript](https://www.javascript.com/), [Typescript](https://www.typescriptlang.org/), [React.js](https://reactjs.org/), [Vue](https://vue.com), [Angular](https://angular.com), [Gatsby](https://www.gatsbyjs.com/), [Next.js](https://nextjs.org/) )
 - 🥇 Backend Development:  [PHP](https://www.php.net/),  [Laravel](https://laravel.com/),  [CodeIgniter](https://codeigniter.com/), [Node.js](https://nodejs.org),[Ruby on Rails](https://thegraph.com/)
 - 🥇 Hybrid Mobile App Development: [React-Native](https://reactjs.org/),[Flutter](https://flutter.dev/), [Android] (https://android.com/)
 - 🥈 DevOps: [CircleCI](https://circleci.com/), [Jenkins](https://www.jenkins.io/), [Github Actions](https://docs.github.com/en/actions), [Bitbucket Pipeline](https://bitbucket.org/product/features/pipelines), [Bitrise](https://www.bitrise.io/)
