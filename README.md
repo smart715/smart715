@@ -1,31 +1,43 @@
-# Full Stack Developer
+## <img height="60" width="60" src="https://media1.tenor.com/images/3ca4190df184f2329bb9f0bd06ea0cc2/tenor.gif?itemid=10604183" /> Welcome 🎉 to my profile.
+
+### Through 8 years of WEB and Hybrid Mobile Development
+#### 💫 ABOUT ME
+- 🚀 I respect and understand your needs, my goal is to give you 100%-satisfaction.
+- 👍 Always, I will achieve effectiveness, high quality, and fastest delivery, maintenance.
+- 👨‍🎓 I strive to make today better than yesterday, I value self-development and continuous improvement.
+- 😃 Have a Project in your Mind?
+- ✨ I will implement your great ideas to be live perfectly.
+- 📫 Contact me if you need my help.
+
 <div align="center">
-<img src="https://res.cloudinary.com/dmsxwwfb5/image/upload/v1595866967/full-stack-devlopment-min.png" alt="Code Chef">
+    <a href="mailto:smartmanage715@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/google-%2300acee.svg?&amp;style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="google">
+    </a>
+    <a href="https://join.skype.com/invite/vNeE45Svtd9P" target="_blank">
+        <img src="https://img.shields.io/badge/skype-%232E87FB.svg?&amp;style=for-the-badge&amp;logo=skype&amp;logoColor=white" alt="skype">
+    </a>
+    <a href="https://t.me/@SeniorTopDev" target="_blank">
+        <img src="https://img.shields.io/badge/telegram-%231E77B5.svg?&amp;style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="telegram">
+    </a>
+    <a href="https://api.whatsapp.com/send?phone=15702313476&text=Hi%20Devdreamsolution%20from%20GitHub" target="_blank">
+        <img src="https://img.shields.io/badge/whatsapp-%989E87FB.svg?&amp;style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" alt="whatsapp">
+    </a>
 </div>
-<br>
 
-<hr>
-<br>
-
-
-I am a programmer all of my life, since my 19, learning by myself primarily. Now I am focused on Blockchain technology using Web3/Solidity as well as web/mobile programming using Node.js/React.js/Ruby on Rails. Many projects I have done as a full-stack developer because when it's small or medium, I can provide fast pace and clean result. I like a positive or neutral emotional state in working, I like clearly defined goals. When it's not well decided, I often can provide my expertness in web-development to help a customer choose a set of features, or make more effective infrastructure. 
-
-<h4 align="center">🔥 My Stacks 🔥</h4>
-<hr>
-<br>
-
-- 🥇 Frontend Development: [Javascript](https://www.javascript.com/), [Typescript](https://www.typescriptlang.org/), [React.js](https://reactjs.org/), [Vue](https://vue.com), [Angular](https://angular.com), [Gatsby](https://www.gatsbyjs.com/), [Next.js](https://nextjs.org/) )
-- 🥇 Backend Development:  [PHP](https://www.php.net/),  [Laravel](https://laravel.com/),  [CodeIgniter](https://codeigniter.com/), [Node.js](https://nodejs.org),[Ruby on Rails](https://thegraph.com/)
-- 🥇 Hybrid Mobile App Development: [React-Native](https://reactjs.org/),[Flutter](https://flutter.dev/), [Android] (https://android.com/)
-- 🥈 DevOps: [CircleCI](https://circleci.com/), [Jenkins](https://www.jenkins.io/), [Github Actions](https://docs.github.com/en/actions), [Bitbucket Pipeline](https://bitbucket.org/product/features/pipelines), [Bitrise](https://www.bitrise.io/)
-- 🥉 Test Framework: [Jest](https://jestjs.io/), [Mocha](https://mochajs.org/)/[Chai](https://www.chaijs.com/), [Protractor](https://www.protractortest.org), [Jasmine](https://jasmine.github.io/)
-
-
-
-<h4 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h4>
-<hr>
-<br>
-<p align="center">
+#### MY STACKS
+- Reactjs, Nextjs, Gatsby, Svelte Redux & toolkit, React Native
+- Vuejs, Nuxtjs, Vuex
+- Angularjs, Angular, IONIC, Typescript
+- Nodejs, Expressjs, Prisma, Sequelize, Mongoose, Graphql
+- HTML5, jQuery, CSS, SCSS, Bootstrap, TailwindCSS, Material UI, Chakra UI
+- MSSQL, MySQL, PostgreSQL, MongoDB
+- Python, Django, Go/Golang
+- Ruby, Ruby on Rails
+- PHP, Laravel | Livewire, Symfony, CodeIgniter
+- C #, ASP.NET, Xamarin
+- Dart, Flutter
+- Face recognition, OpenCV, Blockchain
+- Jira, Azure, AWS Services, Docker, Kubernate, CI/CD, Git
 
 <table><tr><td valign="top" width="100%">
 <div align="center">  
@@ -98,9 +110,3 @@ I am a programmer all of my life, since my 19, learning by myself primarily. Now
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=devdreamsolution&column=7&theme=onedark"/>
 </p>
-</p>
-
-<hr>
-<br>
-
-Here is my [eMail](mailto:smartmanage715@gmail.com?Subject=Hello!) and [Skype](https://join.skype.com/invite/vNeE45Svtd9P).
