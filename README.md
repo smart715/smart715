@@ -19,7 +19,7 @@
     <a href="https://t.me/@SeniorTopDev" target="_blank">
         <img src="https://img.shields.io/badge/telegram-%231E77B5.svg?&amp;style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="telegram">
     </a>
-    <a href="https://api.whatsapp.com/send?phone=15702313476&text=Hi%20Devdreamsolution%20from%20GitHub" target="_blank">
+    <a href="https://api.whatsapp.com/send?phone=15702313476&text=Hi%20SmartDev%20from%20GitHub" target="_blank">
         <img src="https://img.shields.io/badge/whatsapp-%989E87FB.svg?&amp;style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" alt="whatsapp">
     </a>
 </div>
