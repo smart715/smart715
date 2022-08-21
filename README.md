@@ -110,9 +110,4 @@
 </div>
 </td></tr></table>
 
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=devdreamsolution&column=7&theme=onedark"/>
-</p>
-
-
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
