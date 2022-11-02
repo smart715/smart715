@@ -31,14 +31,17 @@
 - Reactjs, Nextjs, Gatsby, Svelte Redux & toolkit, React Native
 - Vuejs, Nuxtjs, Vuex
 - Angularjs, Angular, IONIC, Typescript
+
 ⭐Backend
 - PHP, Laravel , Codeigniter, Cake, Zend, YII, Symfony 
 - Nodejs, Expressjs, Prisma, Sequelize, Mongoose, Graphql
 - Python, Django, Go/Golang
 - Ruby, Ruby on Rails
 - C #, ASP.NET, Xamarin
+
 ⭐Database
 - MSSQL, MySQL, PostgreSQL, MongoDB, Firebase 
+
 ⭐Mobile
 - Android, React Native, Flutter 
 
